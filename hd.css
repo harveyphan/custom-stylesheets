@@ -1,3 +1,7 @@
-table.readpost, table.readpost .main {
-    color:#000 !important;
+body table.readpost, body table.readpost .main {
+    color: #000;
+}
+
+body table.main, body table.mainouter {
+    background: #fff;
 }
